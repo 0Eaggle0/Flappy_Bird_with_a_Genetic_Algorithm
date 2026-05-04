@@ -242,25 +242,6 @@ RGR/
 
 ---
 
-## 🎓 Учебный контекст
-
-Проект разработан в рамках курсовой работы:
-
-> **«Проектирование и тестирование программного обеспечения»** — Семестр 4  
-> Группа ИСТ-241
-
-Цель работы — практически реализовать и проанализировать генетический алгоритм, применённый к реальной задаче (игровой ИИ), наблюдать за эволюционной динамикой и изучить влияние гиперпараметров ГА на скорость сходимости и итоговую производительность.
-
----
-
-## 📄 Лицензия
-
-Проект распространяется под лицензией **MIT** — используйте, изменяйте и распространяйте свободно.
-
----
-
----
-
 # 🐦 Flappy Bird with Genetic Algorithm
 
 > Neuroevolution demo: a population of birds learns to play Flappy Bird through natural selection — no backpropagation, no training data, pure evolution.
@@ -423,9 +404,3 @@ RGR/
 ├── test_headless.py      # Headless test runner
 └── README.md
 ```
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
